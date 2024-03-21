@@ -34,7 +34,7 @@ async function loadCards() {
             }
         } else {
             for (var i = 0; i < cards.length; i++){
-                cardTable.innerHTML += ""
+                cardTable.innerHTML += "<tr><td>" + cards[i].id + "</td><td>" + cards[i].name + "</td><td>" + Math.round(cards[i].priceUSD * priceMultiplier) + "</td><td>" + cards[i].isRare + "</td></tr>";
             }
         }
 
