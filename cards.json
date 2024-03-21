@@ -8,6 +8,6 @@
     {"id":"116", "name": "Platinum Dragon", "priceUSD": 10, "isRare":false},
     {"id":"117", "name": "Bronze Dragon", "priceUSD": 100, "isRare":false},
     {"id":"118", "name": "Etheral Dragon", "priceUSD": 700, "isRare":false},
-    {"id":"119", "name": "Undead Dragon", "priceUSD": 500, "isRare": true},
+    {"id":"119", "name": "Undead Dragon", "priceUSD": 500, "isRare": true}
 
 ]
